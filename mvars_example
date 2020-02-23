@@ -1,0 +1,4 @@
+{
+    "url": "URL TO CRAWL",
+    "chrome_profile_dir": "--user-data-dir=CHROME DIRECTORY"
+}
